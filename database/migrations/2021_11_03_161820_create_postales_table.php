@@ -19,6 +19,8 @@ class CreatePostalesTable extends Migration
 El código postal hará referencia a un listado de posibles códigos postales, pertenecientes a una localidad.
 Cada localidad pertenece a una provincia, y cada provincia pertenece a una comunidad autónoma. 
 
+
+//ESTO ES UNA PRUEBA
 Notas en la agendas
  */
             $table->timestamps();
