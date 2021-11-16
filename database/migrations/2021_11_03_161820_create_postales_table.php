@@ -20,6 +20,8 @@ El código postal hará referencia a un listado de posibles códigos postales, p
 Cada localidad pertenece a una provincia, y cada provincia pertenece a una comunidad autónoma. 
 
 Notas en la agendas
+
+AQUI OTRA PRUEBA DIFERENTE PARA VER LOS CAMBIOS
  */
             $table->timestamps();
         });
